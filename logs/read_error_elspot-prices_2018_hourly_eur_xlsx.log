@@ -1,0 +1,17 @@
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'SYS', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'SE1', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'SE2', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'SE3', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'SE4', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'FI', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'DK1', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'DK2', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'Oslo', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'Kr.sand', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'Bergen', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'Molde', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'Tr.heim', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'Tromsø', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'EE', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'LV', '').
+ERROR: elspot-prices_2018_hourly_eur.xlsx: The price is missing or not valid: ('2018-03-25 02:00', 'LT', '').
