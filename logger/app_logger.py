@@ -12,7 +12,7 @@ logfile = APP_LOG_FILE
 stream_handler = logging.StreamHandler()
 stream_handler.setLevel(logging.INFO)
 
-file_handler = logging.FileHandler(logfile, mode="a")
+file_handler = logging.FileHandler(logfile, mode="w")
 
 
 # formatters
