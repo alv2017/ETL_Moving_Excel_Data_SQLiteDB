@@ -42,9 +42,11 @@ def load_file_to_db(conn, data_file, app_logger, read_logger, insert_logger,
     logref = data_file_basename
     
     if data_file_ext == "csv":
-        data = read_csv_file_data(data_file, app_logger, read_logger)
+        data = read_csv_file_data(data_file, app_logger, read_logger,
+                                  log_errors_to_file=log_errors_to_file)
     elif data_file_ext == "xlsx":
-        data = read_excel_file_data(data_file, app_logger, read_logger, wsname=wsname)
+        data = read_excel_file_data(data_file, app_logger, read_logger, 
+                                    log_errors_to_file=log_errors_to_file, wsname=wsname)
     else:
         msg = "Unknown file format: {0}. ".format(data_file_name)
         msg += "File data won't be processed."
