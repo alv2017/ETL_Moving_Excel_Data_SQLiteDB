@@ -1,0 +1,49 @@
+*** 2020-12-20 22:32:09,172 - load_data_to_db.py: ***
+  INFO: Loading data from file to DB:  elspot-prices_2018_hourly_eur.xlsx
+*** 2020-12-20 22:32:09,172 - file_operations.py: ***
+  INFO: Reading data from:
+  /home/maverick/eclipse-workspace/Python/Ignitis/ETL_Moving_Excel_Data_to_SQLite/data/elspot-prices_2018_hourly_eur.xlsx
+*** 2020-12-20 22:32:15,768 - file_operations.py: ***
+  INFO: There is missing price data in the data file: elspot-prices_2018_hourly_eur.xlsx
+!!! WARNING: Number of missing values: 17 !!!
+  For details check file's read log: read_error_elspot-prices_2018_hourly_eur_xlsx.log.
+
+*** 2020-12-20 22:32:15,768 - load_data_to_db.py: ***
+  INFO: Data insertion is over.
+  Number of processed records: 148920
+  Number of inserted records 148903.
+!!! WARNING: Insertion of 17 row(s) failed !!!
+  Failed insertions log: insert_error_elspot-prices_2018_hourly_eur_xlsx.log
+
+*** 2020-12-20 22:32:16,315 - load_data_to_db.py: ***
+  INFO: Loading data from file to DB:  elspot-prices_2019_hourly_eur.xlsx
+*** 2020-12-20 22:32:16,316 - file_operations.py: ***
+  INFO: Reading data from:
+  /home/maverick/eclipse-workspace/Python/Ignitis/ETL_Moving_Excel_Data_to_SQLite/data/elspot-prices_2019_hourly_eur.xlsx
+*** 2020-12-20 22:32:25,528 - file_operations.py: ***
+  INFO: There is missing price data in the data file: elspot-prices_2019_hourly_eur.xlsx
+!!! WARNING: Number of missing values: 22097 !!!
+  For details check file's read log: read_error_elspot-prices_2019_hourly_eur_xlsx.log.
+
+*** 2020-12-20 22:32:25,528 - load_data_to_db.py: ***
+  INFO: Data insertion is over.
+  Number of processed records: 170645
+  Number of inserted records 170623.
+!!! WARNING: Insertion of 22 row(s) failed !!!
+  Failed insertions log: insert_error_elspot-prices_2019_hourly_eur_xlsx.log
+
+*** 2020-12-20 22:32:26,044 - load_data_to_db.py: ***
+  INFO: Loading data from file to DB:  elspot-prices_2020_hourly_eur.xlsx
+*** 2020-12-20 22:32:26,045 - file_operations.py: ***
+  INFO: Reading data from:
+  /home/maverick/eclipse-workspace/Python/Ignitis/ETL_Moving_Excel_Data_to_SQLite/data/elspot-prices_2020_hourly_eur.xlsx
+*** 2020-12-20 22:32:32,823 - file_operations.py: ***
+  INFO: There is missing price data in the data file: elspot-prices_2020_hourly_eur.xlsx
+!!! WARNING: Number of missing values: 22 !!!
+  For details check file's read log: read_error_elspot-prices_2020_hourly_eur_xlsx.log.
+
+*** 2020-12-20 22:32:32,823 - load_data_to_db.py: ***
+  INFO: Data insertion is over.
+  Number of processed records: 150986
+  Number of inserted records 150986.
+
