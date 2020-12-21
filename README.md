@@ -1,5 +1,7 @@
 # ETL: Moving prices data stored in *.xlsx and *.csv files to the SQLite database
 
+# Release Version: 1.1.0
+
 ### Business Case
 
 We have a data visualisation application built in Excel. We want
@@ -12,7 +14,7 @@ by the company offices all around the globe.
 
 Our assignment is to migrate the data that is currently stored in *.xlsx and/or *.csv files
 into the web application database. For simplicity for data migration we will use a SQLite
-database. The data has to be moved to the table called **hourly_prices**
+database. The data needs to be moved to the table called **hourly_prices**
 
 **hourly_prices** table structure:
 (price_time, region, price)
@@ -47,7 +49,7 @@ Excel files was moved to SQLite database **db/prices.db**. The data migration is
 listed in the logs. The logs are located in the project directory called **logs**.
 
 In order to re-run the project one needs to empty the database **prices.db** and 
-run the script
+run the script **data_loading.py**:
 
 ```
 $ python -m data_loading
@@ -65,14 +67,16 @@ ETL_Moving_PriceData_to_SQLite
 		|_ db_operations.py
 		|_ file_operatins.py
 		|_ load_data_to_db.py
+		|_ logging_errors.py
 	|
 	|_ logger
 			|_ app_logger.py
 			|_ insert_logger.py
-			|_ log_errors.py
 			|_ read_logger.py
+			|_ tesging_logger.py
 	|
 	|_ logs
+	|_ tests
 	|_ data_loading.py
 	|_ README.md
 	|_ settings.py
@@ -106,6 +110,11 @@ The directory contains application and error logs.
 The file called **app.log** contains the log of file uploading, and it is 
 a good starting point for investigating other log files.
 
+**tests**
+
+The directory contains a set of unit and functional tests for the **etl** module.
+**pytest** library has been used to write the tests.
+
 **data_loading.py**
 
 The file contains a script that loads data from data files to SQLite data base.
@@ -113,6 +122,8 @@ The file contains a script that loads data from data files to SQLite data base.
 **settings.py**
 
 The file contains project settings.
+
+
 	
 	
 	
