@@ -1,78 +1,78 @@
-*** 2020-12-02 15:20:21,417 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'SYS', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,417 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'SE1', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'SE2', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'SE3', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'SE4', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'FI', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'DK1', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'DK2', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'Oslo', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'Kr.sand', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'Bergen', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'Molde', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'Tr.heim', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'Tromsø', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'EE', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,418 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'LV', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:21,419 - db_operations.py: ***
-	ERROR: elspot-prices_2018_hourly_eur.xlsx Record insertion failed: ('2018-10-28 02:00', 'LT', '41.59').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,672 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'SYS', '33.18').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'SE1', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'SE2', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'SE3', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'SE4', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'FI', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'DK1', '0.05').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'DK2', '0.05').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'Oslo', '37.11').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'Kr.sand', '37.11').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'Bergen', '37.11').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'Molde', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'Tr.heim', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'Tromsø', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,673 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'EE', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,674 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'LV', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,674 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'LT', '31.49').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,674 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'AT', '31.05').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,674 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'BE', '25.81').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,674 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'DE-LU', '-9.97').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,674 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'FR', '11.58').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
-*** 2020-12-02 15:20:36,674 - db_operations.py: ***
-	ERROR: elspot-prices_2019_hourly_eur.xlsx Record insertion failed: ('2019-10-27 02:00', 'NL', '25.7').   UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region
+*** 2020-12-20 22:32:15,400 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'SYS', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,400 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'SE1', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'SE2', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'SE3', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'SE4', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'FI', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'DK1', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'DK2', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'Oslo', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'Kr.sand', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'Bergen', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'Molde', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'Tr.heim', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'Tromsø', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,401 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'EE', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,402 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'LV', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:15,402 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2018_hourly_eur.xlsx: Data insertion failed: ('2018-10-28 02:00', 'LT', '41.59'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'SYS', '33.18'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'SE1', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'SE2', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'SE3', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'SE4', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'FI', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'DK1', '0.05'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,922 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'DK2', '0.05'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'Oslo', '37.11'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'Kr.sand', '37.11'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'Bergen', '37.11'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'Molde', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'Tr.heim', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'Tromsø', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'EE', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'LV', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'LT', '31.49'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'AT', '31.05'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'BE', '25.81'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,923 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'DE-LU', '-9.97'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,924 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'FR', '11.58'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
+*** 2020-12-20 22:32:24,924 - load_data_to_db.py: ***
+	ERROR: elspot-prices_2019_hourly_eur.xlsx: Data insertion failed: ('2019-10-27 02:00', 'NL', '25.70'). UNIQUE constraint failed: hourly_prices.price_time, hourly_prices.region.
